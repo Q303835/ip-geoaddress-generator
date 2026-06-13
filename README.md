@@ -64,7 +64,7 @@ docker run -p 3000:3000 guoogaii/ip-geoaddress-generator:latest
 
 3. 运行开发服务器：
    ```bash
-   npm dev
+   npm run dev
    ```
 
 ## 注意事项
